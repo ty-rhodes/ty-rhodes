@@ -7,6 +7,7 @@
 ### - UIKit
 ### - MMVM
 ### - MVC
+### - Product Quality Control
 
 ## Other Interests:
 ### - 🏋 Health and Fitness 
