@@ -6,7 +6,7 @@
 ### - SwiftUI
 ### - UIKit
 ### - MMVM
-### MVC
+### - MVC
 
 ## Other Interests:
 ### - 🏋 Health and Fitness 
