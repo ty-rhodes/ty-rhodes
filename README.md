@@ -5,6 +5,7 @@
 ## Skillset:
 ### - SwiftUI
 ### - UIKit
+### - CoreData
 ### - MMVM
 ### - MVC
 
