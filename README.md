@@ -6,8 +6,8 @@
 ### - SwiftUI
 ### - UIKit
 ### - CoreData
-### - MMVM
-### - MVC
+### - HealthKit
+### - SwiftCharts
 
 ## Other Interests:
 ### - 🏋 Health and Fitness 
