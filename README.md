@@ -7,7 +7,7 @@
 ### - 💻 UIKit
 ### - 💿 CoreData
 ### - 🏥 HealthKit
-### - 📈 SwiftCharts
+### - 📈 Swift Charts
 
 ## Other Interests:
 ### - 🏋 Health and Fitness 
