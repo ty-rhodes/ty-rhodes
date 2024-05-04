@@ -12,6 +12,6 @@
 ## Other Interests:
 ### - 🏋 Health and Fitness 
 ### - 🎸 Music(playing guitar)
-### - 💰 Investing 
+### - 💰 Investing/Finance 
 ### - 🤖 AI
 ### - 🔐 Cybersecurity 
